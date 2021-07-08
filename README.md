@@ -1,1 +1,1 @@
-"# PodlodkaComposeTest" 
+# PodlodkaComposeTest
