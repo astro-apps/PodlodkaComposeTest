@@ -1,6 +1,6 @@
 # Podlodka Compose Test
 
-Android приложение со списком сессий с конференции Podlodka Android Crew. Проект создавался, чтобы попробовать Jetpack Compose по [заданию](https://docs.google.com/document/d/1XiNfo4pGc5VT1e-88bU7JB23IxE3QAmVOovgFT7FSwA/edit#heading=h.bmu8ah9f0etu).
+Android приложение со списком сессий с конференции Podlodka Android Crew. Проект создавался, чтобы попробовать Jetpack Compose по [заданию](https://docs.google.com/document/d/1XiNfo4pGc5VT1e-88bU7JB23IxE3QAmVOovgFT7FSwA/edit?usp=sharing).
 
 ## Стек технологий Android приложения
 
